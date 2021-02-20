@@ -1,0 +1,1 @@
+En el siguiente listado de módulos que componen el máster se realizarán para cada uno de ellos una actividad colaborativa (pública entre alumnos y con fines principalmente divulgativos) y otra tarea con un mayor grado de componente práctico.
