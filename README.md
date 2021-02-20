@@ -1,2 +1,2 @@
-# master-AI-exercises
- Set of practices carried out in the master's degree in Artificial Intelligence applied to sport.
+# master-IA-deporte
+Repositorio de prácticas realizadas en el Máster de Inteligencia Artificial aplicada al deporte.
