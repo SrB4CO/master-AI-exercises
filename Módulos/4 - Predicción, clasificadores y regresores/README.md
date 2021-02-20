@@ -4,7 +4,7 @@
 ## Realización
 Buenas a todos.
 
-Os dejo un artículo donde la nutrición es objeto de estudio dentro de un sistema un poquito más complejo en el que por desgracia tengo algo de experiencia, diabetes. Espero que a Andrés no le pille, tendrá que empezar a cuidarse.
+Os dejo un artículo (carpeta Colaborativa) donde la nutrición es objeto de estudio dentro de un sistema un poquito más complejo en el que por desgracia tengo algo de experiencia, diabetes. Espero que a Andrés no le pille, tendrá que empezar a cuidarse.
 
 En el interior del paper he subrayado las partes que he considerado más interesantes, no por importancia ni nada relativo, sino porque simplemente bajo mi criterio me resultan curiosas, y me gustaría comentarlas en la mesa redonda del viernes.
 
