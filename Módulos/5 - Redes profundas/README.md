@@ -2,7 +2,7 @@ Extrayendo conocimiento de datos deportivos: Redes profundas
 
 # Colaborativa
 
-**GANs & Ghosting**
+##GANs & Ghosting
 
 A continuación os dejo un enlace en el que muestro un par de ejemplos del estado del arte del 'ghosting', las redes neuronales y más en concreto de una GAN (Generative Adversarial Network) para dicho proceso.
 
