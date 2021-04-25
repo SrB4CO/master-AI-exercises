@@ -1,3 +1,4 @@
+# Tarea
 Imagina que quieres saber cuál es la probabilidad de que tu equipo gane un partido en función de que el entrenador alinee a ciertos jugadores. Vamos a muestrear sólo un jugador por cada puesto de la defensa, mediocampo y delantera del Real Madrid de las tres Champions seguidas: Sergio Ramos, Luka Modric y Cristiano Ronaldo. El dataset estaría compuesto por variables binarias indicando si juega cada jugador, y la variable a predecir sería si el Real Madrid ganó ese partido. Por ejemplo [0, 1, 1] -> [1] significaría que el Madrid ganó el partido con Modric y Cristiano pero sin Ramos.
 
  
