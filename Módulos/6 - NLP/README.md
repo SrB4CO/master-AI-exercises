@@ -1,5 +1,22 @@
 # Colaborativa
+## Enunciado
+En la actualidad las redes sociales, son una verdadera mina de información. Por lo que automáticamente se convierten en una de las principales fuentes de datos para algoritmos de Procesamiento del Lenguaje Natural.
 
+A diario millones de interacciones suceden en ellas generando: visibilidad, viralización, creación de opinión y poder de persuasión entre otra... Dichas herramientas son extremadamente útiles.
+
+¿Se te ocurre alguna propuesta en la que se pudiera aprovechar este fenómeno?
+
+- Indica en qué ámbito deportivo lo aplicarías.
+
+- Cómo extraerías y procesarías dicha información.
+
+- De qué tecnología te servirías para ello: infraestructura, recursos, algoritmos NPL utilizados…
+
+- ¿Existe algún ejemplo real donde se aplique tu propuesta? 
+
+El objetivo es que entre todos descubramos la importancia de un buen aprovechamiento y uso de la información presente en las redes sociales. 
+
+## Realización 
 A continuación, desgloso los distintos puntos de la actividad sobre una pequeña idea al vuelo sobre cómo se podría utilizar Twitter para extraer información que pudiera ser interesante para una plataforma de resultados o de noticias.
 
  
